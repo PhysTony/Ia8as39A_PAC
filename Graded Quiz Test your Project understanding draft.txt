@@ -1,0 +1,29 @@
+1. We can transform or normalize our dataset during the setup environment process?
+True
+Apart from these we can perform a lot of data wrangling tasks while setting up the environment.
+
+2. While comparing models we can blacklist some models we don’t want to compare?
+False
+Sometimes based on our experience, understanding of models or business needs. we can blacklist
+certain models.
+
+3. What is the default fold count when we create a model?
+10
+PyCaret have 10 folds by default.
+
+4. We have to give initial parameters to our tuning model as a starting point?
+False
+That’s the wonder of PyCaret that you don’t have to specify anything at all.
+
+5. Stacking is a technique of?
+Ensemble learning that combines multiple models via a meta model
+Stacking is ensemble based but uses a meta model at front
+
+6. What ensemble methods do?
+*C: It uses multiple learning algorithms to obtain better predictive performance
+It is quite a popular method.
+
+7. Confusion matrix is not a way of visualizing classification performance?
+False
+Confusion Matrix is commonly used to describe the performance of a classification model
+
